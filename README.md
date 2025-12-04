@@ -10,7 +10,8 @@ make backend-run # Execute backend server in port 5001
 ```
 
 ### Frontend
-** Requerimientos: ** node en version 24.11 o nvm para poder tener la versión de node correcta
+**Requerimientos:** node en version 24.11 o nvm para poder tener la versión de node correcta.
+
 Los comandos para frontend son los siguientes:
 ```bash
 make frontend-install # Install frontend requirements (requires node 24.11 installed in your machine)
