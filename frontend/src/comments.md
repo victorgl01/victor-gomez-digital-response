@@ -1,0 +1,1 @@
+* He tenido que usar dayjs por que tratar con fechas con node es un poco horrible
